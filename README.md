@@ -1,0 +1,2 @@
+# Part-2-GridsearchCV-Hperparameter-Tuning-R2-Score-0.74-
+This is a sequel to the Part1 of the the repository  "Part 1: GridsearchCV Hperparameter Tuning (R2=0.5) . In this current project, we were able to do a thorough clean up and some feature engineering to our data. We also checked and removed unwanted outliers. This whole process helped improve our model scores, with the highest being around 74%.
